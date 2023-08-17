@@ -1,0 +1,31 @@
+ <div id="main">
+<div id="inside">
+    <form action="/action.php">
+        <h3>Create Account</h3>
+        <input type="text" placeholder="Name">
+        <br>
+        <input type="text" placeholder="Email">
+        <br>
+        <input type="password" placeholder="Password">
+       <button>Sign Up</button>
+       <input type="checkbox" name="Subjects" id="01" value="RememberMe"> Remember Me
+       <h6>New to My App</h6>
+       <a href=";">Sing Up</a>
+</div>
+    </div>
+    
+<div id="main">
+    <div id="inside">
+        <form action="/action.php">
+            <h3>Contact Me</h3>
+            <input type="text" placeholder="Email">
+            <br>
+            <input type="password" placeholder="Password">
+           <button>
+    
+           </button>
+           <h6>New to My App</h6>
+           <a href=";">Sing Up</a>
+        
+    </div>
+        </div>

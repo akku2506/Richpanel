@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body{
+    height: 100%;
+    width: 100%;
+}
+#plan{
+    display: flex;
+}
+#a{
+    height: 90vh;
+    width: 32%;
+    background-color: crimson;
+}
+#b{
+    height: 80vh;
+    width: 17%;
+    background-color: royalblue;
+}
+#c{
+    height: 70vh;
+    width: 17%;
+    background-color: aqua;
+}
+#d{
+    height: 60vh;
+    width: 17%;
+    background-color: greenyellow;
+}
+#e{
+    height: 50vh;
+    width: 17%;
+    background-color: coral;
+}
